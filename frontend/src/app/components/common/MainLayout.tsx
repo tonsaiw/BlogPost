@@ -1,6 +1,6 @@
 // components/MainLayout.tsx
 import { Sidebar } from "./Sidebar";
-import PostList from "../post/PostList";
+import { PostList } from "../post/PostList";
 
 export const MainLayout = () => {
   return (
