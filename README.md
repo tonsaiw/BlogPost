@@ -7,6 +7,12 @@
 Run the command to start the database with Docker Compose:
 
 ```bash
+cd backend
+```
+
+และรัน
+
+```bash
 docker-compose up -d
 ```
 
